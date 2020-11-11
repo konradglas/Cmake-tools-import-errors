@@ -1,7 +1,7 @@
 #include <stdlib.h>
-#include <Accelerate/Accelerate.h>
+#include <assert.h>
 
-int main()
+int main2()
 {
     int i = 0 + 1;
     return 0;
